@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Process_CMMS_Store">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Process_CMMS_Store_jar/Process_CMMS_Store.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
