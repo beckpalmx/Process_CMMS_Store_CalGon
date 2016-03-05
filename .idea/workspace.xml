@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a358b72-d6c8-4b9f-9525-1a771a7a3c69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Process_CMMS_Store_CalGon_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Process_CMMS_Store_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Process_CMMS_Store.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cgc_config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module_process_cmms_store.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Process_CMMS_Store_jar/Process_CMMS_Store.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Process_CMMS_Store_jar/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/Process_CMMS_Store.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/DB/DBConnect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/DB/Process_transactionDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/Util/DateUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/Util/OS_Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/Util/PeriodDate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/Util/ReadConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/Util/UtiDatabase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/bean/DataBean_Transaction_Process.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/com/cmms/engine/Process_transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Process_CMMS_Store/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process_cmms_store.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process_cmms_store.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/DB/DBConnect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/DB/Process_transactionDB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/Util/DateUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/Util/OS_Type.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/Util/PeriodDate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/Util/ReadConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/Util/UtiDatabase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/bean/DataBean_Transaction_Process.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cmms/engine/Process_transaction.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Process_CMMS_Store_CalGon_jar/Process_CMMS_Store_CalGon.jar" afterPath="$PROJECT_DIR$/out/artifacts/Process_CMMS_Store_CalGon_jar/Process_CMMS_Store_CalGon.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Process_CMMS_Store.java" afterPath="$PROJECT_DIR$/src/Process_CMMS_Store.java" />
     </list>
     <ignored path="Process_CMMS_Store_CalGon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,8 +32,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="472" column="54" selection-start-line="472" selection-start-column="54" selection-end-line="472" selection-end-column="54" />
               <folding>
-                <element signature="e#0#24852#0" expanded="true" />
-                <element signature="imports" expanded="true" />
                 <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
                 <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
                 <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -91,7 +50,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="16" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <marker date="1454752005950" expanded="true" signature="2122:2229" placeholder="select * fro..missingValue..." />
                 <marker date="1454752005950" expanded="true" signature="2447:2667" placeholder="select count..missingValue..." />
                 <marker date="1454752005950" expanded="true" signature="2953:3503" placeholder="INSERT INTO missingValue..." />
@@ -113,8 +71,8 @@
       <file leaf-file-name="Process_transaction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/cgc/engine/Process_transaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84745765">
-              <caret line="51" column="76" selection-start-line="51" selection-start-column="76" selection-end-line="51" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.66883117">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,7 +126,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -196,9 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,6 +251,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -569,45 +527,12 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -681,37 +606,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Process_CMMS_Store" type="Application" factoryName="Application">
@@ -761,32 +659,35 @@
       <workItem from="1454574778474" duration="1072000" />
       <workItem from="1454750617956" duration="177000" />
       <workItem from="1454751097344" duration="1453000" />
+      <workItem from="1454897863009" duration="604000" />
+      <workItem from="1454998285919" duration="4834000" />
+      <workItem from="1455691390573" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13695000" />
+    <option name="totallyTimeSpent" value="19731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1370" height="754" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -845,8 +746,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -894,8 +793,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -943,8 +840,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -999,8 +894,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -1048,8 +941,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -1097,8 +988,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -1146,8 +1035,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="441" column="0" selection-start-line="441" selection-start-column="0" selection-end-line="441" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -1305,19 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cgc/DB/Process_Stock_Balance_DB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <marker date="1450419199435" expanded="true" signature="1623:2211" placeholder="select part_..vt_transaction_stockmissingValue..." />
-            <marker date="1450419199435" expanded="true" signature="1680:1770" placeholder="select vp.la..vm_part_price..." />
-            <marker date="1450419199435" expanded="true" signature="1828:1918" placeholder="select vp.la..vm_part_price..." />
-            <marker date="1450419199435" expanded="true" signature="2963:3207" placeholder="insert into ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calgon_config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28774422">
@@ -1337,8 +1211,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="472" column="54" selection-start-line="472" selection-start-column="54" selection-end-line="472" selection-end-column="54" />
           <folding>
-            <element signature="e#0#24852#0" expanded="true" />
-            <element signature="imports" expanded="true" />
             <marker date="1454574918113" expanded="true" signature="1682:2052" placeholder="select runno..vd_adjust_stock_detail..." />
             <marker date="1454574918113" expanded="true" signature="7315:7877" placeholder="select runno..vd_stock_withdraw_detail_store_trans..." />
             <marker date="1454574918113" expanded="true" signature="13642:14026" placeholder="select runno..vd_oil_withdraw..." />
@@ -1355,7 +1227,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <marker date="1454752005950" expanded="true" signature="2122:2229" placeholder="select * fro..missingValue..." />
             <marker date="1454752005950" expanded="true" signature="2447:2667" placeholder="select count..missingValue..." />
             <marker date="1454752005950" expanded="true" signature="2953:3503" placeholder="INSERT INTO missingValue..." />
@@ -1373,10 +1244,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cgc/engine/Process_transaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84745765">
-          <caret line="51" column="76" selection-start-line="51" selection-start-column="76" selection-end-line="51" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.66883117">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cgc/DB/Process_Stock_Balance_DB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1450419199435" expanded="true" signature="1623:2211" placeholder="select part_..vt_transaction_stockmissingValue..." />
+            <marker date="1450419199435" expanded="true" signature="1680:1770" placeholder="select vp.la..vm_part_price..." />
+            <marker date="1450419199435" expanded="true" signature="1828:1918" placeholder="select vp.la..vm_part_price..." />
+            <marker date="1450419199435" expanded="true" signature="2963:3207" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
